@@ -34,7 +34,7 @@ SO THAT I can plan a trip accordingly
 *THEN I am presented with the last searched city forecast
 
 ## Mock-Up
-![](assets/Images/Screen%20Shot%202023-07-26%20at%202.31.18%20PM.png)
+(assets/Images/Screen%20Shot%202023-07-26%20at%202.31.18%20PM.png)
 
 ## Contributor:
 Adrian Manzanares ©2023 All Rights Reserved.
